@@ -1,3 +1,6 @@
+# Do you want　to more　Infomation? So you should go Project-tab
+https://github.com/ryo-s2000/google-api-ruby-client/projects
+
 # Google API Client
 
 These client libraries are officially supported by Google.  However, the libraries are considered complete and are in maintenance mode. This means that we will address critical bugs and security issues but will not add any new features.
