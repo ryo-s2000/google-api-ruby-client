@@ -1,5 +1,4 @@
-# Do you want　to more　Infomation? 
-# So you should go Project-tab
+### Do you want　to more　Infomation? So you should go Project-tab
 https://github.com/ryo-s2000/google-api-ruby-client/projects
 
 # Google API Client
